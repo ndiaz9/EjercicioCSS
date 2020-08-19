@@ -1,0 +1,9 @@
+p{
+    text-align: center;
+}
+
+#encabezado{
+    background-color: pink;
+    color: blue;
+    font-weight: bolder;
+}
